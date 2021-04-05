@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\VizeÖdevi\VizeÖdevi\bin\Debug\VizeÖdevi.exe.config
+C:\Users\HP\Desktop\VizeÖdevi\VizeÖdevi\bin\Debug\VizeÖdevi.exe
+C:\Users\HP\Desktop\VizeÖdevi\VizeÖdevi\bin\Debug\VizeÖdevi.pdb
+C:\Users\HP\Desktop\VizeÖdevi\VizeÖdevi\obj\Debug\VizeÖdevi.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\VizeÖdevi\VizeÖdevi\obj\Debug\VizeÖdevi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\VizeÖdevi\VizeÖdevi\obj\Debug\VizeÖdevi.exe
+C:\Users\HP\Desktop\VizeÖdevi\VizeÖdevi\obj\Debug\VizeÖdevi.pdb
+C:\Users\HP\Desktop\Buket BEKER\Proglamlama\c#\VizeÖdevi\VizeÖdevi\bin\Debug\VizeÖdevi.exe.config
+C:\Users\HP\Desktop\Buket BEKER\Proglamlama\c#\VizeÖdevi\VizeÖdevi\bin\Debug\VizeÖdevi.exe
+C:\Users\HP\Desktop\Buket BEKER\Proglamlama\c#\VizeÖdevi\VizeÖdevi\bin\Debug\VizeÖdevi.pdb
+C:\Users\HP\Desktop\Buket BEKER\Proglamlama\c#\VizeÖdevi\VizeÖdevi\obj\Debug\VizeÖdevi.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Buket BEKER\Proglamlama\c#\VizeÖdevi\VizeÖdevi\obj\Debug\VizeÖdevi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Buket BEKER\Proglamlama\c#\VizeÖdevi\VizeÖdevi\obj\Debug\VizeÖdevi.exe
+C:\Users\HP\Desktop\Buket BEKER\Proglamlama\c#\VizeÖdevi\VizeÖdevi\obj\Debug\VizeÖdevi.pdb
